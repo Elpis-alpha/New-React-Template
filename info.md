@@ -34,6 +34,7 @@
 > - **Framer Motion**: npm install framer-motion  
 > - **Styled Components**: npm install styled-components  
 > - **Loaders**: npm install react-loader-spinner  
+> - **Cookies**: npm install universal-cookie  
 > - **Font Awesome**: npm install @fortawesome/fontawesome-svg-core
 > - **Font Awesome**: npm install @fortawesome/free-solid-svg-icons
 > - **Font Awesome**: npm install @fortawesome/react-fontawesome
