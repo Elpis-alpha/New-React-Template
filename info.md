@@ -11,6 +11,15 @@
 > 6. Edit the meta description in public/index.html  
 > 7. Edit the title in public/index.html  
 
+> ## How to use
+> 
+> 1. npm start (in front-end directory)  
+> 2. npm run dev (in back-end directory)  
+> 3. Chain the following commands
+>    - cd C:\Program Files\MongoDB\package\bin
+>    - mongod.exe  --dbpath="C:\Program Files\MongoDB\database"
+
+-------------------------------
 
 > ## Front End Libraries
 > 
@@ -24,6 +33,7 @@
 > - **Redux Thunk**: npm install redux-thunk  
 > - **Framer Motion**: npm install framer-motion  
 > - **Styled Components**: npm install styled-components  
+> - **Loaders**: npm install react-loader-spinner  
 > - **Font Awesome**: npm install @fortawesome/fontawesome-svg-core
 > - **Font Awesome**: npm install @fortawesome/free-solid-svg-icons
 > - **Font Awesome**: npm install @fortawesome/react-fontawesome
