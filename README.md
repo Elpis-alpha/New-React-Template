@@ -48,6 +48,7 @@
 > - **Axios**: npm install axios  
 > - **Validator**: npm install validator  
 > - **Bcrypt**: npm install bcryptjs  
+> - **Cors**: npm install cors  
 > - **Web Token**: npm install jsonwebtoken  
 > - **Mongodb**: npm install mongodb  
 > - **Mongoose**: npm install mongoose  
